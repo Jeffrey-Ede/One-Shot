@@ -1,0 +1,69 @@
+{
+    "default padding": {
+        "xy": {
+            "units": "Å",
+            "val": 8.0
+        },
+        "z": {
+            "units": "Å",
+            "val": 3.0
+        }
+    },
+    "double precision": false,
+    "full 3d": {
+        "state": false
+    },
+    "maintain areas": false,
+    "microscope": {
+        "aperture": {
+            "units": "mrad",
+            "val": 20.0
+        },
+        "voltage": {
+            "units": "kV",
+            "val": 200.0
+        },
+        "aberrations": {
+            "C10": {
+                "units": "nm",
+                "val": 0.0
+            },
+            "C12": {
+                "ang": 0.0,
+                "mag": 0.0,
+                "units": "nm, °"
+            },
+            "C21": {
+                "ang": 0.0,
+                "mag": 0.0,
+                "units": "nm, °"
+            },
+            "C23": {
+                "ang": 0.0,
+                "mag": 0.0,
+                "units": "nm, °"
+            },
+            "C30": {
+                "units": "μm",
+                "val": 1.0
+            }
+        }
+    },
+    "mode": {
+        "id": 1,
+        "name": "CTEM"
+    },
+    "ctem": {
+        "simulate image": true
+    },
+    "potentials": "kirkland",
+    "resolution": 512,
+    "slice offset": {
+        "units": "Å",
+        "val": 0.5
+    },
+    "slice thickness": {
+        "units": "Å",
+        "val": 1.0
+    }
+}

@@ -1,0 +1,16 @@
+Wavefunctions are in python numpy (.npy) format for quick loading. They can easily be converted to other formats with python or using one of the numpy readers available for other languages. Wavefunction mean amplitudes are unity and are 320x320 arrays of 64-bit complex numbers.
+
+Files ouputted when simulating wavefunctions are in the meta folder and contain some information about simulation parameters. The first number in the file name, before the -, is the wavefunction number, the second is the cif number.
+
+CIFs were downloaded by url from the crystallography open database (COD) for a selection of chemistry journals http://www.crystallography.net/cod/browse.html
+
+Rows list journal, corresponding cif numbers, then download URL list
+
+Inorganic Chemistry, 0-5456, COD-Selection.txt
+Journal of the American Chemical Society, 5457-7454, COD-Selection (1).txt
+American Mineralogist, 7455-8488, COD-Selection (2).txt
+Chemistry of materials, 8489-11415, COD-Selection (3).txt
+Physics and Chemistry of Minerals, 11416-12631, COD-Selection (4).txt
+New Journal of Chemistry, 12632-12781, COD-Selection (5).txt
+
+Actual file numbers may differ slightly as these number were recorded months after the cifs were downloaded.
