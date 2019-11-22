@@ -1,0 +1,5 @@
+Tracking networks.
+
+Example of oscillations is in loss log of experiment 9.
+
+Outputting to 11...

@@ -1,0 +1,1 @@
+GAN with amplitude and phase component concatenation

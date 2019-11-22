@@ -1,0 +1,1 @@
+Increased learning rate from 0.001 to 0.005

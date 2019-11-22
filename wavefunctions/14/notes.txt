@@ -1,0 +1,1 @@
+Multiscale network struggled to learn from squared differences so introduce gradient penalty.

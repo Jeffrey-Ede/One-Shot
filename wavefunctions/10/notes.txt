@@ -1,0 +1,1 @@
+MSE training with more (800k?) iterations.

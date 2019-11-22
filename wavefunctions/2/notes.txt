@@ -1,0 +1,1 @@
+1/10 number of iterations, 2x batch size, and 10x mse loss.

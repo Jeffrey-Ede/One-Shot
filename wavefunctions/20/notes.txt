@@ -1,0 +1,3 @@
+Adjustments to prevent vanishing or exploding gradients.
+
+Discriminator inputs are wavefunctions.

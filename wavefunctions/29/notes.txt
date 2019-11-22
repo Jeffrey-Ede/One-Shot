@@ -1,0 +1,1 @@
+Spectrally normalized. No biases. Amplitude and phase components.

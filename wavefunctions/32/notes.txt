@@ -1,0 +1,1 @@
+MSE pre-training for 100000 iterations. Then unconditional GAN.

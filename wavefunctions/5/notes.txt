@@ -1,0 +1,3 @@
+Added extra convolutions after concatenation. 
+MSE weight decreased from 200 to 20.
+Base learning rate increased from 0.0002 to 0.001.
