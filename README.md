@@ -35,6 +35,6 @@ Last saved checkpoints for notable files are [here]. Password:
 
 # Contact
 
-Jeffrey M. Ede: j.m.ede@warwick.ac.uk - machine learning, general
-Jon J. P. Peters: j.peters.1@warwick.ac.uk - clTEM
+Jeffrey M. Ede: j.m.ede@warwick.ac.uk - machine learning, general  
+Jon J. P. Peters: j.peters.1@warwick.ac.uk - clTEM  
 Richard Beanland: r.beanland@warwick.ac.uk
