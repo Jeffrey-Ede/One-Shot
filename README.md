@@ -31,8 +31,8 @@ New datasets containing 98340 simulated wavefunctions, and 1000 experimental foc
 
 # Pretrained Models
 
-Last saved checkpoints for notable files are [here]. Password: 
-
+Last saved checkpoints for notable files are [here](https://mycloud-test.warwick.ac.uk/s/aSMfPetfg5pGWmH). Password: "W4rw1ck3m!" (without quotes). Note that the server is in a test phase, so it may be intermitently unavailable and the url will eventually change.
+ 
 # Contact
 
 Jeffrey M. Ede: j.m.ede@warwick.ac.uk - machine learning, general  
