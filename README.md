@@ -8,7 +8,7 @@ One-shot exit wavefunction with deep learning uses deep learning to recover phas
   <img src="single_examples_refined-2.png">
 </p>
 
-Phases output by a neural network for input amplitudes are similar to true phases for In1.7K2Se8Sn2.28 wavefunctions. 
+Figure: phases output by a neural network for input amplitudes are similar to true phases for In1.7K2Se8Sn2.28 wavefunctions. 
 
 # Noteable Files
 
