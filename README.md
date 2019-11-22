@@ -24,3 +24,17 @@ In the wavefunctions directory, subdirectories numbered 1,2,3, ..., snapshot neu
 **37**: n=3, single material, generative adversarial network
 
 **40**: n=3, multiple materials, restricted simulation hyperparameters
+
+# Datasets
+
+New datasets containing 98340 simulated wavefunctions, and 1000 experimental focal series available [here](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/microscopy/research/machinelearning).
+
+# Pretrained Models
+
+Last saved checkpoints for notable files are [here]. Password: 
+
+# Contact
+
+Jeffrey M. Ede: j.m.ede@warwick.ac.uk - machine learning, general
+Jon J. P. Peters: j.peters.1@warwick.ac.uk - clTEM
+Richard Beanland: r.beanland@warwick.ac.uk
