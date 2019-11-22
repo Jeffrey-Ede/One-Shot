@@ -1,4 +1,4 @@
-# One-Shot
+# One-Shot Exit Wavefunction Reconstruction
 
 Repository for the upcoming [paper](upcoming url!) "One-Shot Exit Wavefunction Reconstruction". 
 
