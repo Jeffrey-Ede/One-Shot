@@ -31,7 +31,16 @@ New datasets containing 98340 simulated wavefunctions, and 1000 experimental foc
 
 # Pretrained Models
 
-Last saved checkpoints for notable files are [here](https://mycloud-test.warwick.ac.uk/s/aSMfPetfg5pGWmH). Password: "W4rw1ck3m!" (without quotes). Note that the server is in a test phase, so it may be intermitently unavailable and the url will eventually change.
+Last saved checkpoints for notable files are [here](https://mycloud-test.warwick.ac.uk/s/aSMfPetfg5pGWmH). Password: "W4rw1ck3m!" (without quotes). Note that the server is in a test phase, so it may be intermittently unavailable and the url will eventually change.
+ 
+# clTEM
+
+Multislice simulations were performed with clTEM. Source code is maintained by Jon Peters and is available [here](https://github.com/JJPPeters/clTEM).
+
+Compiled versions of clTEM used in our research have been included
+
+**clTEM_files**: n=1, Older Version  
+**clTEM_file_0.2.4**: n=3, Newer Version
  
 # Contact
 
