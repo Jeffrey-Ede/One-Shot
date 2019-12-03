@@ -35,7 +35,7 @@ Last saved checkpoints for notable files are [here](https://mycloud-test.warwick
  
 # clTEM
 
-Multislice simulations were performed with clTEM. Source code is maintained by Jon Peters and is available [here](https://github.com/JJPPeters/clTEM).
+Multislice simulations were performed with clTEM. Simulations are GPU-accelerated, and are written in OpenCL/C++ for performance. Source code is maintained by Jon Peters and is available [here](https://github.com/JJPPeters/clTEM).
 
 Compiled versions of clTEM used in our research have been included
 
