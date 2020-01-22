@@ -1,6 +1,6 @@
-# One-Shot Exit Wavefunction Reconstruction
+# Exit Wavefunction Reconstruction from Single Transmisson Electron Micrographs with Deep Learning
 
-Repository for the upcoming [paper](upcoming url!) "One-Shot Exit Wavefunction Reconstruction". 
+Repository for the upcoming [paper](upcoming url!) "Exit Wavefunction Reconstruction from Single Transmisson Electron Micrographs with Deep Learning". 
 
 One-shot exit wavefunction with deep learning uses neural networks to recover phases of conventional transmission electron microscopy images by restricting the distribution of wavefunctions. 
 
@@ -24,6 +24,8 @@ In the wavefunctions directory, subdirectories numbered 1,2,3, ..., snapshot neu
 **37**: n=3, single material, generative adversarial network
 
 **40**: n=3, multiple materials, restricted simulation hyperparameters
+
+A simple script to reconstruct focal series is in `wavefunctions/hologram_reconstruction_old_code.py`.
 
 # Datasets
 
