@@ -48,6 +48,6 @@ Compiled versions of clTEM used in our research have been included
 # Contact
 
 Jeffrey M. Ede: j.m.ede@warwick.ac.uk - machine learning, general  
-Jon J. P. Peters: j.peters.1@warwick.ac.uk - clTEM  
+Jonathan J. P. Peters: j.peters.1@warwick.ac.uk - clTEM  
 Jeremy Sloan: j.sloan@warwick.ac.uk  
 Richard Beanland: r.beanland@warwick.ac.uk
