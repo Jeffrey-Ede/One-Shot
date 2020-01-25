@@ -42,8 +42,8 @@ Multislice simulations were performed with clTEM. Simulations are GPU-accelerate
 
 Compiled versions of clTEM used in our research have been included
 
-**clTEM_files**: n=1, Older Version  
-**clTEM_file_0.2.4**: n=3, Newer Version
+**clTEM_files**: n=1, Alternative physics
+**clTEM_file_0.2.4**: n=3, Standard physics
  
 # Contact
 
