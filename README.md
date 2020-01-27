@@ -1,4 +1,4 @@
-# Exit Wavefunction Reconstruction from Single Transmisson Electron Micrographs with Deep Learning
+# One-Shot Exit Wavefunction Reconstruction
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3625571.svg)](https://doi.org/10.5281/zenodo.3625571)
 
 Repository for the upcoming [paper](upcoming url!) "Exit Wavefunction Reconstruction from Single Transmisson Electron Micrographs with Deep Learning". 
