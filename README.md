@@ -30,7 +30,7 @@ A simple script to reconstruct focal series is in `wavefunctions/hologram_recons
 
 # Datasets
 
-New datasets containing 98340 simulated wavefunctions, and 1000 experimental focal series available [here](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/microscopy/research/machinelearning).
+New datasets containing 98340 simulated wavefunctions, and 1000 experimental focal series available [here](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/microscopy/research/machinelearning). This includes n=3 datasets downsampled to 96x96 with antialiasing that are intended for rapid development, which were added on 20/02/2020.
 
 # Pretrained Models
 
