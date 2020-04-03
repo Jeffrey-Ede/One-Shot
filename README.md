@@ -36,8 +36,8 @@ n=3 datasets downsampled to 96x96 with antialiasing have beed added for rapid de
 
 # Pretrained Models
 
-Last saved checkpoints for notable files are [here](https://mycloud-test.warwick.ac.uk/s/aSMfPetfg5pGWmH). Password: "W4rw1ck3m!" (without quotes). Note that the server is in a test phase, so it may be intermittently unavailable and the url will eventually change.
- 
+Last saved checkpoints for notable files are [here](https://github.com/Jeffrey-Ede/datasets/wiki).
+
 # clTEM
 
 Multislice simulations were performed with clTEM. Simulations are GPU-accelerated, and are written in OpenCL/C++ for performance. Source code is maintained by Jon Peters and is available [here](https://github.com/JJPPeters/clTEM) with official releases.
